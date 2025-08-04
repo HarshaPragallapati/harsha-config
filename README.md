@@ -1,1 +1,1 @@
-# eazybytes-config
+# harsha-config
